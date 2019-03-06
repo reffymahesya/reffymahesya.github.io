@@ -7,16 +7,17 @@ header{
   color: white;
 }
 
-nav{
-	margin: 0;
-	padding: 10px;
+
+.image {
+  height: 700px;
+  background-image: url("https://snowman-wallpapers.com/images/Space-Wallpaper-4k-On-Wallpaper-Hd-9.jpg	");
+  background-size: cover;
 }
 
-nav li {
-  color: #fff;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  font-size: 12px;
-  display: inline-block;
-  width: 80px;
+.welcome{
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+  text-align: center;
+  color: white;
 }
